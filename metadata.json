@@ -1,0 +1,6 @@
+{
+  "name": "Tes Potensi Akademik SMK Kesehatan Nusantara",
+  "description": "Aplikasi Tes Potensi Akademik modern untuk penyeleksian dan rekomendasi jurusan otomatis bagi calon siswa baru di SMK Kesehatan Nusantara, lengkap dengan integrasi multi-role dan panduan PHP-MySQL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
